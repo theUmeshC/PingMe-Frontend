@@ -45,5 +45,5 @@ export const useRequest = (url, body) => {
 
 export default useAxios;
 
-// export const baseUrl = 'http://65.1.3.29:9000/'
-export const baseUrl = 'http://localhost:9000/';
+export const baseUrl = 'http://65.1.3.29:9000/'
+// export const baseUrl = 'http://localhost:9000/';
